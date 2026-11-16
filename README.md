@@ -2,7 +2,7 @@
 
 A native Android port of [zelda3](https://github.com/snesrev/zelda3), the complete C
 reimplementation of ALttP, with widescreen, save states, rewind, fast-forward, image filters,
-cheats and controller support. Bring your own ROM; the app sets everything up on the device.
+cheats and controller support. Bring your own ROM; the app sets everything up on the device..
 
 <p align="center">
   <img src="docs/screenshots/game.webp" alt="Gameplay in widescreen, with the HUD at the screen edges and the on-screen controls" width="720">

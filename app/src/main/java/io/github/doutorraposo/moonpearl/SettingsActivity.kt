@@ -1,5 +1,4 @@
 package io.github.doutorraposo.moonpearl
-
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
@@ -436,6 +435,7 @@ private fun LanguageSettings() {
                         when (tag) {
                             "" -> stringResource(R.string.language_system)
                             "en" -> "English"
+                            "es" -> "Español"
                             else -> "Português"
                         },
                         maxLines = 1,

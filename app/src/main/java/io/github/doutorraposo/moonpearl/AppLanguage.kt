@@ -14,7 +14,7 @@ import java.util.Locale
  */
 object AppLanguage {
     /** Language tags offered in the launcher; "" follows the system. */
-    val options = listOf("", "en", "es")
+    val options = listOf("", "en", "es", "pt-BR")
 
     private const val PREFS = "app"
     private const val KEY = "app_language"
